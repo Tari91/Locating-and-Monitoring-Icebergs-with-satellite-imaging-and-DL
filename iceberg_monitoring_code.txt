@@ -1,0 +1,4 @@
+# Locating and Monitoring Icebergs with Satellite Imaging and Deep Learning (Synthetic Data)
+# Full Python script below...
+
+<PLACEHOLDER: Insert the full code from prior response here if needed>
